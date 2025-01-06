@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # === Параметры ===
-INTERFACE="eth0"
+INTERFACE="ens3"
 CAPTURE_FILE="/tmp/capture.pcap"
 DURATION=30  # Время захвата в секундах
 
