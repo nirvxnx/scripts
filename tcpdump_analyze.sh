@@ -2,7 +2,7 @@
 
 # === Параметры ===
 INTERFACE="eth0"
-CAPTURE_FILE="capture.pcap"
+CAPTURE_FILE="/tmp/capture.pcap"
 DURATION=30  # Время захвата в секундах
 
 # === Захват трафика ===
