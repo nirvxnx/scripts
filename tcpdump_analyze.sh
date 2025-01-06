@@ -1,5 +1,4 @@
 #!/bin/bash
-
 # === Параметры ===
 INTERFACE="ens3"
 CAPTURE_FILE="/tmp/capture.pcap"
